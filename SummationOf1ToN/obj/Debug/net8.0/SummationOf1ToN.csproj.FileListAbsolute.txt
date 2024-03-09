@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\bin\Debug\net8.0\SummationOf1ToN.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\bin\Debug\net8.0\SummationOf1ToN.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\bin\Debug\net8.0\SummationOf1ToN.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\bin\Debug\net8.0\SummationOf1ToN.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\bin\Debug\net8.0\SummationOf1ToN.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\refint\SummationOf1ToN.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\SummationOf1ToN.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SummationOf1ToN\SummationOf1ToN\obj\Debug\net8.0\ref\SummationOf1ToN.dll
